@@ -14,7 +14,11 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=robsonleal&show_icons=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=robsonleal&show_icons=true&theme=dark" width='350'></a>
+</p>
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsonleal&show_icons=true&theme=dark" width='200'></a>
 </p>
 
 <p align='center'>  
